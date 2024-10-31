@@ -14,6 +14,6 @@ I'm a front-end developer with experience in building responsive and accessible 
 - [**Random Password Generator**](https://github.com/NazarPauk/Random-Password-Generator) and [**Basketball-Scoreboard**](https://github.com/NazarPauk/Basketball-Scoreboard) - Solo practical tasks from the **Learn JavaScript** and **Introduction to ES6+** courses by Scrimba, where I applied my skills in DOM manipulation to create a random password generator and a score counter.
 
 ## Contacts:
-- Email: [nazarpauk@gmail.com](nazarpauk@gmail.com)
+- Email: [nazarpauk@gmail.com](mailto:nazarpauk5@gmai.com)
 - LinkedIn: [nazar-pauk](www.linkedin.com/in/nazar-pauk)
 
