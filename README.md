@@ -3,7 +3,7 @@
 I'm a front-end developer with experience in building responsive and accessible web applications. 
 
 ## Skills:
-- HTML, CSS, JavaScript
+- HTML, CSS, JavaScript, React
 - Visual Studio Code
 - Git, GitHub
 - Jira, Confluance, ClickUp
